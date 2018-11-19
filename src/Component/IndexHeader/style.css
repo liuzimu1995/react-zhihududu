@@ -1,0 +1,10 @@
+.index-header {
+  height: 2rem;
+  background-color:rgb(3, 143, 214);
+  text-align: center;
+  vertical-align:middel;
+}
+.index-header .title{
+  font: 1rem sans-serif;
+  color: #FFF;
+}
